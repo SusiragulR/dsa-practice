@@ -17,9 +17,27 @@ This repository includes solutions solved as part of structured DSA preparation 
 
 ## Practice Approach
 
-Problems in this repository were solved primarily by following a structured coding sheet and are currently organized based on practice progression.
+Problems in this repository were solved through structured DSA practice by following a curated coding sheet.
 
-Over time, solutions may be reorganized and grouped by concepts and problem categories.
+### Naming Convention
+
+Solution files follow the format:
+
+```text
+cf<number>
+```
+
+Example:
+
+```text
+cf1.java
+cf39.java
+cf257.java
+```
+
+Where the number represents the corresponding problem sequence in the practice sheet.
+
+Solutions are currently maintained in progression order and may be reorganized into concept-based categories over time.
 
 ---
 
