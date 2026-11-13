@@ -8,7 +8,7 @@ This repository includes solutions solved as part of structured DSA preparation 
 
 ## Progress
 
-- Total Problems Solved: 310+
+- Total Problems Solved: 350+
 - Platforms:
   - [LeetCode](https://leetcode.com/u/Susiragul)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/profile/susiragulr1?tab=activity)
